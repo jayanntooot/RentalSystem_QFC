@@ -171,9 +171,9 @@
             this.lbl_title.Font = new System.Drawing.Font("Segoe UI Semibold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl_title.Location = new System.Drawing.Point(68, 36);
             this.lbl_title.Name = "lbl_title";
-            this.lbl_title.Size = new System.Drawing.Size(171, 32);
+            this.lbl_title.Size = new System.Drawing.Size(66, 32);
             this.lbl_title.TabIndex = 39;
-            this.lbl_title.Text = "Add Customer";
+            this.lbl_title.Text = "Add ";
             // 
             // txt_branch
             // 
